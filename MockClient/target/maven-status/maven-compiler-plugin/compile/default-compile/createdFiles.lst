@@ -1,0 +1,8 @@
+lwm2mjmeter\jmeter\protocol\lwm2m\LwM2mManagerBeanInfo.class
+lwm2mjmeter\jmeter\protocol\lwm2m\LwM2mConfig.class
+com\simplelwm2m\simplelwm2m\SimpleResource.class
+lwm2mjmeter\jmeter\protocol\lwm2m\LwM2mManager.class
+com\simplelwm2m\simplelwm2m\MockLwM2mClient.class
+lwm2mjmeter\jmeter\protocol\lwm2m\LwM2mAbstractSampler.class
+lwm2mjmeter\jmeter\protocol\lwm2m\NotifyObserversSamplerBeanInfo.class
+lwm2mjmeter\jmeter\protocol\lwm2m\NotifyObserversSampler.class
